@@ -1,9 +1,40 @@
 {
-	"customers": [
-		{"id":"1", "name":"vaibhav", "email" : "vibbs@test.com", "age" : 29},
-		{"id":"2", "name":"Pranav","email" : "Pranav@test.com", "age" : 23},
-		{"id":"3", "name":"Rahul", "email": "Rahul@test.com", "age" : 26},
-		{"id":"4", "name":"Chirs", "email": "Chirs@test.com", "age" : 23},
-		{"id":"4", "name":"Chirs2", "email": "Chirs2@test.com", "age" : 23}
-	]
+  "customers": [
+    {
+      "id": "1",
+      "name": "vaibhav",
+      "email": "vibbs@test.com",
+      "age": 29
+    },
+    {
+      "id": "2",
+      "name": "Pranav",
+      "email": "Pranav@test.com",
+      "age": 23
+    },
+    {
+      "id": "3",
+      "name": "Rahul",
+      "email": "Rahul@test.com",
+      "age": 26
+    },
+    {
+      "id": "4",
+      "name": "Chirs",
+      "email": "Chirs@test.com",
+      "age": 23
+    },
+    {
+      "id": "4",
+      "name": "Chirs2",
+      "email": "Chirs2@test.com",
+      "age": 23
+    },
+    {
+      "name": "vaibhavedited",
+      "email": "nv@test.com",
+      "age": 48,
+      "id": "HyqEwK6UZ"
+    }
+  ]
 }
